@@ -1,0 +1,16 @@
+#loading_gif
+{
+   z-index: 6;
+   left: 42vw;
+   top: 50vh;
+   position: fixed;
+   width:200px;
+}
+#loading_bg
+{
+   z-index: 5;
+   left: -3vw;
+   top: 1vh; 
+   position: absolute;
+   height:100%;
+}
